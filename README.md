@@ -19,6 +19,7 @@ A partir da análise que cerca de 60% dos colaboradores são, e há uma concentr
 
 Abaixo deixo alguns dos gráficos realizados durante a análise.
 
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0a38d045-725f-49ba-9b0c-fe3d989e7400" />
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fd17dc96-a8c3-423f-b01f-b380fbf282d1" />
